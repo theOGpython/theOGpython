@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=theOGpython&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/theOGpython/github-readme-stats)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theOGpython)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theOGpython&layout=compact)](https://github.com/theOGpython/github-readme-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
